@@ -1,6 +1,1 @@
 master
-<<<<<<< HEAD
-=======
-branch_A
-branch_B
->>>>>>> 2e6339eccd2c80ca226fc7ab500767bfe140c135
